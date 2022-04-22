@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T02:23:50.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="zFPnH77k6bdw07JrOuFE" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T02:39:27.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="3Bz5ARFoSCWlPSQwBObm" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2046" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2642" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-830" y="300" width="820" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="-W8P5x1OQqSnHpTh8xjm-0" value="Welcome to Easy to Schedule" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-533.25" y="30" width="170" height="30" as="geometry" />
         </mxCell>
@@ -11,28 +14,28 @@
           <mxGeometry x="-507" y="190" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-W8P5x1OQqSnHpTh8xjm-2" value="CTF-1121" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-517" y="300" width="70" height="20" as="geometry" />
+          <mxGeometry x="-470" y="320" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-W8P5x1OQqSnHpTh8xjm-3" value="WSD-1421" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-432" y="300" width="70" height="20" as="geometry" />
+          <mxGeometry x="-250" y="310" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-W8P5x1OQqSnHpTh8xjm-4" value="Protocol numer is incorrect&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-300" y="250" width="100" height="30" as="geometry" />
+          <mxGeometry x="-120" y="240" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-W8P5x1OQqSnHpTh8xjm-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.65;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W8P5x1OQqSnHpTh8xjm-1">
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-W8P5x1OQqSnHpTh8xjm-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-507" y="160" as="sourcePoint" />
-            <mxPoint x="-560" y="297.9999999999998" as="targetPoint" />
+            <mxPoint x="-510" y="240" as="sourcePoint" />
+            <mxPoint x="-570" y="310" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-W8P5x1OQqSnHpTh8xjm-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W8P5x1OQqSnHpTh8xjm-1" target="-W8P5x1OQqSnHpTh8xjm-2">
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.419;exitY=1.062;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W8P5x1OQqSnHpTh8xjm-1" target="-W8P5x1OQqSnHpTh8xjm-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-482" y="250" as="sourcePoint" />
+            <mxPoint x="-460" y="250" as="sourcePoint" />
             <mxPoint x="-482" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-W8P5x1OQqSnHpTh8xjm-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W8P5x1OQqSnHpTh8xjm-1">
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W8P5x1OQqSnHpTh8xjm-1" target="-W8P5x1OQqSnHpTh8xjm-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-402" y="270" as="sourcePoint" />
             <mxPoint x="-397" y="300" as="targetPoint" />
@@ -67,6 +70,30 @@
             <mxPoint x="-457.5" y="120" as="sourcePoint" />
             <mxPoint x="-457" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="360" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-540" y="360" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-17" value="Baseline visit or Day 1: &amp;nbsp;DD-MM-YYYY&lt;br&gt;Week 5 visit: Baseline day + 35 days+/- 5 days&lt;br&gt;Week 10 visit: Baseline day + 70 days +/-5 days&lt;br&gt;Week 15 visit: Baseline day + 105 days +/- 5 days&lt;br&gt;Week 20 visit: Baseline day +/- 5 days" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-820" y="360" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-18" value="FXT-1432" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-690" y="320" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W8P5x1OQqSnHpTh8xjm-4" target="-W8P5x1OQqSnHpTh8xjm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="210" as="sourcePoint" />
+            <mxPoint x="-390" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-W8P5x1OQqSnHpTh8xjm-22" value="CSV" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-820" y="310" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
