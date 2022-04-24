@@ -1,6 +1,6 @@
 # Project "Easy to Schedule"
 
-![Easy to Schedule](/Proyecto/"Easy to Schedule/.jpg.webp)
+![Easy to Schedule](Proyecto/"Easy to Schedule/.jpg.webp)
 
 Este proyecto esta diseñado para resolver problemas cotidianos a la hora de programar visitas para ensayos clínicos.
 
